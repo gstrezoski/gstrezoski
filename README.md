@@ -1,5 +1,4 @@
-### I am Gjorgji Strezoski
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=true&multiline=true&random=false&width=435&lines=Gjorgji+Strezoski;Computer+Vision+%7C+Software+Engineering+%7C+)](https://git.io/typing-svg)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gstrezoski&theme=gruvbox&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
